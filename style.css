@@ -1,0 +1,31 @@
+
+html {
+ background: linear-gradient(blue, black);
+ background-image:url('https://media.tenor.com/images/08fd3199871504156f4d0a47b85b570c/tenor.gif');
+ text-align: center;
+ color: yellow;
+}
+h1 {
+ font-family: Helvetica ;
+ font-style: italic ;
+}
+button {
+padding: 10px ;
+background-color : pink;
+border-radius: 10px ;
+color: white ;
+
+}
+
+#name {
+font-weight: bold;
+font-family: striped;
+}
+
+#love {
+font-size: 50px;
+text-align: center;
+color : white;
+}
+
+
