@@ -7,7 +7,7 @@ function love() {
  heart.innerHTML = "♥";
  var msg = document.createElement("img");
  msg.src =
-  "/Animated_Heart_GIF_Picture.gif";
+  "https://github.com/Harshalh93/test.github.io/blob/master/Animated_Heart_GIF_Picture.gif";
  heart.appendChild(brk);
  heart.appendChild(msg);
 }
