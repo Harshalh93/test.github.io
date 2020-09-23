@@ -7,7 +7,7 @@ function love() {
  heart.innerHTML = "♥";
  var msg = document.createElement("img");
  msg.src =
-  "Animated_Heart_GIF_Picture.gif";
+  "/Animated_Heart_GIF_Picture.gif";
  heart.appendChild(brk);
  heart.appendChild(msg);
 }
